@@ -1,5 +1,5 @@
 {
-  "name": "adonisjs-mailerlite",
+  "name": "adonis-mailerlite",
   "version": "1.0.0",
   "description": "Adonisjs Framework MailerLite  Provider",
   "main": "./build/providers/MailerLiteProvider.js",

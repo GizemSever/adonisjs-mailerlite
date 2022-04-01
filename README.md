@@ -4,12 +4,12 @@
 
 # Installation
 ```bash
-npm i --save adonisjs-mailerlite
+npm i --save adonis-mailerlite
 ```
 
 Connect all dependencies:
 ```bash
-node ace invoke adonisjs-mailerlite
+node ace invoke adonis-mailerlite
 ```
 
 # Sample Usage
